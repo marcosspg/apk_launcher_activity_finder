@@ -1,4 +1,4 @@
-# apk_launcher_activity_finder
+# APK Launcher Activity Finder
 It opens an AndroidManifest.xml and show the activity that is launcher for first in the app
 
 <h2>How to use</h2>

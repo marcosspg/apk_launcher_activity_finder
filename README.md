@@ -1,1 +1,1 @@
-"# apk_launcher_activity_finder" 
+# apk_launcher_activity_finder
